@@ -19,3 +19,5 @@ Analysis of customer retention and acquisition patterns over two years.
 
 4. Operational Efficiency
 Store performance evaluation by country and revenue per square foot.
+
+[here](https://mramadhankesapi.github.io/rama-kesa_portfolio/)
