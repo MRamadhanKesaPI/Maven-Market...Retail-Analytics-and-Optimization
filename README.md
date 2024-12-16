@@ -20,4 +20,15 @@ Analysis of customer retention and acquisition patterns over two years.
 4. Operational Efficiency
 Store performance evaluation by country and revenue per square foot.
 
-[here](https://mramadhankesapi.github.io/rama-kesa_portfolio/)
+
+## Project Assets
+To make the analysis and insights easy to exploe, the following resources are available:
+
+- The SQL queries for data preparation can be found here
+
+- The DAX measures for exploratory data analysis (EDA) process with busines questions can be found here
+
+- Power BI dashboard with interactive insights can be downloaded here
+
+![full_name](https://github.com/user-attachments/assets/5918f224-027c-44de-8bc9-a2f46f588e7a)
+
