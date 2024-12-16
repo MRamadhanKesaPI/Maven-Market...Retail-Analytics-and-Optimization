@@ -26,7 +26,7 @@ To make the analysis and insights easy to exploe, the following resources are av
 
 - The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/SQL-Queries-for-Data-Preparation-For-Maven-Market-Portfolio/)
 
-- The DAX measures for exploratory data analysis (EDA) process with busines questions can be found here
+- The DAX measures for exploratory data analysis (EDA) process with busines questions can be found [here](https://mramadhankesapi.github.io/DAX-Measures-for-Rama-Kesa-Portfolio/)
 
 - Power BI dashboard with interactive insights can be downloaded here
 
