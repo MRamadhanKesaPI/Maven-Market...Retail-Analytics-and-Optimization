@@ -49,13 +49,24 @@ Below is an overview from the Power BI dashboard, with additional examples provi
 
 ![EXE SUMMARY](https://github.com/user-attachments/assets/bd0dd2bb-cf1f-4b63-a099-699ba282fc71)
 
-#### Product Performance
+
+#### Product Performance:
 - Best Choice balances strong profit margins and sales targets, with $42,738 in revenue and a 60.6% profit margin. It shows a steady upward sales trend, making it a strong performer with high sales and proportional profits.
-- Plato and BBB Best have high profit margins (63.6% and 62.1%, respectively), but lower sales around $30K. However, while BBB Best shows a better sales trend, Plato missed its 10% target last month. Adjusting the price slightly for both products could help attract more buyers
+- Plato and BBB Best have high profit margins (63.6% and 62.1%, respectively), but lower sales around $30K. However, while BBB Best shows a better sales trend, Plato missed its 10% target last month. Adjusting the price slightly for both products could help attract more buyers.
 
 ![Product Detail 1](https://github.com/user-attachments/assets/195598bb-fa1b-4dbf-85ef-b5d122713b33)
 
 ![Product Detail 2](https://github.com/user-attachments/assets/05208946-c48f-4ad2-addf-44cd1ff62199)
+
+
+#### Customer Behaviors
+- Maven Market has had a total of 8,842 customers over the past two years, with most of them (8,060) in 1998. This shows strong customer growth, especially in that year.
+- Maven Market has a high 98.8% retention rate, meaning most customers keep coming back. This shows that customers are happy and loyal to the brand.
+- Bronze membership brings in the most revenue, especially from lower and middle-income customers. These customers find the benefits of the bronze membership, which are likely more affordable, better than having no membership at all (the "normal" status).
+
+![Customer Behaviors](https://github.com/user-attachments/assets/87bd0406-307f-4c8c-858a-c342dad1567d)
+
+
 
 
 
