@@ -47,5 +47,6 @@ The USA is still the top revenue source, but Mexico’s rapid growth shows it co
 
 Below is an overview from the Power BI dashboard, with additional examples provided throughout the report.
 
-![image](https://github.com/user-attachments/assets/92f08b1d-b932-4a66-bfd1-7fc79b2d30b1)
+![EXE SUMMARY](https://github.com/user-attachments/assets/bd0dd2bb-cf1f-4b63-a099-699ba282fc71)
+
 
