@@ -5,7 +5,7 @@ Maven Market, established in the mid-1990s, is a fictional retail brand speciali
 
 This project thoroughly analyzes two years of historical data (1997–1998) to uncover actionable insights that can drive profitability, optimize product offerings, improve customer satisfaction, and enhance operational efficiency. The analysis is centered around evaluating sales performance, product trends, customer behaviors, and store operations to provide recommendations for business improvement.
 
-#### Insights and Recommendations Focus
+#### Insights and Recommendations Focus:
 The project explores and provides actionable insights across the following critical business dimensions:
 
 1. Sales Trends Analysis
@@ -29,6 +29,8 @@ To make the analysis and insights easy to exploe, the following resources are av
 - The DAX measures for exploratory data analysis (EDA) process, along with the corresponding analysis questions can be found [here](https://mramadhankesapi.github.io/DAX-Measures-for-Rama-Kesa-Portfolio/)
 
 - Power BI dashboard with interactive insights can be downloaded here
+
+**Note**: Due to problems with my Microsoft account, the interactive Power BI content is not available in this portfolio. I will update it once the issue is fixed.
 
 
 ## Data Structure & initial Checks
@@ -54,6 +56,8 @@ Below is an overview from the Power BI dashboard, with additional examples provi
 - Best Choice balances strong profit margins and sales targets, with $42,738 in revenue and a 60.6% profit margin. It shows a steady upward sales trend, making it a strong performer with high sales and proportional profits.
 - Plato and BBB Best have high profit margins (63.6% and 62.1%, respectively), but lower sales around $30K. However, while BBB Best shows a better sales trend, Plato missed its 10% target last month. Adjusting the price slightly for both products could help attract more buyers.
 
+**Note**: This report includes a drillthrough page for detailed product performance analysis. By clicking on a product brand in any of the pages, the report will automatically navigate to the product performance page, updating with data specific to the selected product.
+
 ![Product Detail 1](https://github.com/user-attachments/assets/195598bb-fa1b-4dbf-85ef-b5d122713b33)
 
 ![Product Detail 2](https://github.com/user-attachments/assets/05208946-c48f-4ad2-addf-44cd1ff62199)
@@ -67,8 +71,11 @@ Below is an overview from the Power BI dashboard, with additional examples provi
 ![Customer Behaviors](https://github.com/user-attachments/assets/430427b2-70be-4470-a048-4243dd164ed0)
 
 
+### Operational Efficiency:
+- USA stores achieve high revenue per SQFT ($3.24) with a low order frequency (28), indicating fewer but higher-value purchases. In contrast, Mexico has a higher order frequency (66) but lower revenue per SQFT ($1.74), suggesting frequent but smaller transactions. The - - opportunity lies in boosting order frequency in the USA and Canada while increasing order values in Mexico to balance both performance metrics.
+- We focus on USA stores as they have been running for two years. Stores like Store 14, Store 2, and Store 22 consistently underperform, earning under $0.50 revenue per square foot, highlighting the need for further evaluation.
 
-
+![Operational Efficiency](https://github.com/user-attachments/assets/467e5d00-ead8-4167-be73-1aa82c7cbe2f)
 
 
 
