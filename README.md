@@ -49,4 +49,14 @@ Below is an overview from the Power BI dashboard, with additional examples provi
 
 ![EXE SUMMARY](https://github.com/user-attachments/assets/bd0dd2bb-cf1f-4b63-a099-699ba282fc71)
 
+#### Product Performance
+- Best Choice balances strong profit margins and sales targets, with $42,738 in revenue and a 60.6% profit margin. It shows a steady upward sales trend, making it a strong performer with high sales and proportional profits.
+- Plato and BBB Best have high profit margins (63.6% and 62.1%, respectively), but lower sales around $30K. However, while BBB Best shows a better sales trend, Plato missed its 10% target last month. Adjusting the price slightly for both products could help attract more buyers
+
+![Product Detail 1](https://github.com/user-attachments/assets/195598bb-fa1b-4dbf-85ef-b5d122713b33)
+
+![Product Detail 2](https://github.com/user-attachments/assets/05208946-c48f-4ad2-addf-44cd1ff62199)
+
+
+
 
