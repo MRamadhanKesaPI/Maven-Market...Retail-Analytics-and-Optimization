@@ -43,8 +43,9 @@ Before beginning the analysis, comprehensive quality checks were performed to en
 #### Overview of Finding
 Maven Market has achieved strong financial results, with a $1.05M profit and a 59% profit margin, driven by rapid growth in 1998 from expanding into Mexico and Canada. Revenue has increased by 112% compared to last year, thanks to expansion and strong product performance.
 
-The USA is still the top revenue source, but Mexico’s rapid growth shows it could compete with the USA soon. Hermano is the top-selling brand, making up 3.21% of total sales, indicating high customer demand. Notably, Plato stands out with the highest profit margin of 63.6%, despite lower revenue, showing great operational efficiency. 
-
-The next sections will look at key factors behind this performance and explore opportunities for growth.
+The USA is still the top revenue source, but Mexico’s rapid growth shows it could compete with the USA soon. Hermano is the top-selling brand, making up 3.21% of total sales, indicating high customer demand. Notably, Plato stands out with the highest profit margin of 63.6%, despite lower revenue, showing great operational efficiency. The next sections will look at key factors behind this performance and explore opportunities for growth.
 
 Below is an overview from the Power BI dashboard, with additional examples provided throughout the report.
+
+![image](https://github.com/user-attachments/assets/92f08b1d-b932-4a66-bfd1-7fc79b2d30b1)
+
