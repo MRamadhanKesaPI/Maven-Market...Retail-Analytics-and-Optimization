@@ -58,9 +58,9 @@ Below is an overview from the Power BI dashboard, with additional examples provi
 
 **Note**: This report includes a drillthrough page for detailed product performance analysis. By clicking on a product brand in any of the pages, the report will automatically navigate to the product performance page, updating with data specific to the selected product.
 
-![Product Detail 1](https://github.com/user-attachments/assets/195598bb-fa1b-4dbf-85ef-b5d122713b33)
+![Product Detail 1](https://github.com/user-attachments/assets/07b44c5a-df9d-4794-b7ea-2e0b6f401ac1)
 
-![Product Detail 2](https://github.com/user-attachments/assets/05208946-c48f-4ad2-addf-44cd1ff62199)
+![Product Detail 2](https://github.com/user-attachments/assets/23782158-3def-4122-83f5-e00cc1dc2c29)
 
 
 ### Customer Behaviors:
