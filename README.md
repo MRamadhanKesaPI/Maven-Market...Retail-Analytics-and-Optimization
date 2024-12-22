@@ -30,5 +30,10 @@ To make the analysis and insights easy to exploe, the following resources are av
 
 - Power BI dashboard with interactive insights can be downloaded here
 
+
+## Data Structure & initial Checks
+Maven Market's database has seven tables: customes, products, stores, regions, calendar, returns, and orders, with a total of 289,511 rows across all tables.
+
 ![full_name](https://github.com/user-attachments/assets/5918f224-027c-44de-8bc9-a2f46f588e7a)
 
+Before beginning the analysis, comprehensive quality checks were performed to ensure data preparation and to familiarize with Maven Market's datasets. The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/SQL-Queries-for-for-Rama-Kesa-Portfolio/)
