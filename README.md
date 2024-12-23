@@ -28,7 +28,7 @@ To make the analysis and insights easy to exploe, the following resources are av
 
 - The DAX measures for exploratory data analysis (EDA) process, along with the corresponding analysis questions can be found [here](https://mramadhankesapi.github.io/DAX-Measures-for-Rama-Kesa-Portfolio/)
 
-- Power BI dashboard with interactive insights can be downloaded [here]([BISMILLAH PORTFOLIO SUKSES.pdf](https://github.com/user-attachments/files/18227926/BISMILLAH.PORTFOLIO.SUKSES.pdf)
+- Power BI dashboard on pdf file can be downloaded here [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
 
 **Note**: Due to problems with my Microsoft account, the interactive Power BI content is not available in this portfolio. I will update it once the issue is fixed.
 
