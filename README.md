@@ -28,9 +28,9 @@ To make the analysis and insights easy to exploe, the following resources are av
 
 - The DAX measures for exploratory data analysis (EDA) process, along with the corresponding analysis questions can be found [here](https://mramadhankesapi.github.io/DAX-Measures-for-Rama-Kesa-Portfolio/)
 
-- Power BI dashboard on pdf file can be downloaded here [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
+- The Power BI dashboard in pdf format can be downloaded here: [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
 
-**Note**: Due to problems with my Microsoft account, the interactive Power BI content is not available in this portfolio. I will update it once the issue is fixed.
+**Note**: Due to issues with my Microsoft account, the interactive Power BI content is not available in this portfolio. I will update it once the issue is fixed.
 
 
 ## Data Structure & initial Checks
@@ -45,9 +45,11 @@ Before beginning the analysis, comprehensive quality checks were performed to en
 ### Overview of Finding
 Maven Market has achieved strong financial results, with a $1.05M profit and a 59% profit margin, driven by rapid growth in 1998 from expanding into Mexico and Canada. Revenue has increased by 112% compared to last year, thanks to expansion and strong product performance.
 
-The USA is still the top revenue source, but Mexico’s rapid growth shows it could compete with the USA soon. Hermano is the top-selling brand, making up 3.21% of total sales, indicating high customer demand. Notably, Plato stands out with the highest profit margin of 63.6%, despite lower revenue, showing great operational efficiency. The next sections will look at key factors behind this performance and explore opportunities for growth.
+The USA is still the top revenue source, but Mexico's rapid growth, despite only being operational for a year, shows it could soon compete with the USA. In just one year, Mexico has experienced significant market penetration, demonstrating a strong customer base and demand for Maven Market's offerings. 
 
-Below is an overview from the Power BI dashboard, with additional examples provided throughout the report.
+Hermano is the top-selling brand, making up 3.21% of total sales, indicating high customer demand. Notably, Plato stands out with the highest profit margin of 63.6%, despite lower revenue, showing great operational efficiency. The next sections will look at key factors behind this performance and explore opportunities for growth.
+
+Below is an overview from the Power BI dashboard, with additional examples provided throughout the report. The Power BI dashboard in pdf format can be downloaded here: [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
 
 ![EXE SUMMARY](https://github.com/user-attachments/assets/bd0dd2bb-cf1f-4b63-a099-699ba282fc71)
 
@@ -76,6 +78,30 @@ Below is an overview from the Power BI dashboard, with additional examples provi
 - We focus on USA stores as they have been running for two years. Stores like Store 14, Store 2, and Store 22 consistently underperform, earning under $0.50 revenue per square foot, highlighting the need for further evaluation.
 
 ![Operational Efficiency](https://github.com/user-attachments/assets/467e5d00-ead8-4167-be73-1aa82c7cbe2f)
+
+
+### Recommendations:
+1. Adjust Pricing for High-Margin, Low-Sales Products:
+   - **Recommendation**: Slightly adjust prices for products like Plato and BBB Best to boost sales while maintaining strong profit margins. If this successful, apply to other similar products.
+   - **Rationale**: These products have high profit margins but low sales. Small price adjustments or targeted promotions could drive more volume without compromising profitability.
+
+2. Bundle or Reposition Low-Performing Products Outside Top 50:
+   - **Recommendation**: Bundle or reposition products outside the top 50, especially those generating under $10k in revenue, to reduce inventory costs and boost sales.
+   - **Rationale**: Products with low revenue can benefit from bundling or repositioning to improve sales and inventory turnover. Successful strategies with these low-revenue products can be scaled to other underperforming items.
+
+3. Leverage Mexico's Growth Potential:
+   - **Recommendation**: Increase marketing and distribution efforts in Mexico to capitalize on its rapid growth and close the gap with the USA in revenue.
+   - **Rationale**: Despite being operational for only one year, Mexico's rapid growth indicates untapped potential. Expanding marketing efforts and optimizing product offerings can accelerate its revenue growth.
+  
+4. Optimize Underperforming USA Stores:
+   - **Recommendation**: Investigate underperforming stores (e.g., Store 14, Store 2, Store 22) for operational issues and consider reallocation of resources or store closures.
+   unlike stores in other countries, which have only been open for one year,
+   - **Rationale**: These stores have been operating for two years, unlike stores in other countries, which have only been open for one year. Despite the longer operating time, these stores still underperform. Addressing operational issues or reallocating resources could improve their performance and profitability.
+
+5. Maximize Customer Retention and Upsell Membership Tiers:
+   - **Recommendation**: Enhance the Bronze membership program with additional benefits and create a pathway for customers to upgrade to higher tiers.
+   - **Rationale**: With a 98.8% retention rate, focusing on increasing revenue from loyal customers through tiered memberships will maximize lifetime value.
+
 
 
 
