@@ -3,18 +3,18 @@
 ## Project Background
 Maven Market, established in the mid-1990s, is a fictional retail brand specializing in a diverse range of consumer products. Over the years, it has expanded operations across North America, including the United States, Canada, and Mexico. By 1997, Maven Market had gathered substantial sales, product, and customer data, yet these datasets were underutilized for strategic decision-making.
 
-This project thoroughly analyzes two years of historical data (1997–1998) to uncover actionable insights that can drive profitability, optimize product offerings, improve customer satisfaction, and enhance operational efficiency. The analysis is centered around evaluating sales performance, product trends, customer behaviors, and store operations to provide recommendations for business improvement.
+This project thoroughly analyzes two years of historical data (1997–1998) to uncover actionable insights that can drive profitability, optimize product offerings, improve customer satisfaction, and enhance operational efficiency. The analysis is centered around evaluating executive summary, product performance, customer behavior, and operational efficiency to provide recommendations for business improvement.
 
 #### Insights and Recommendations Focus:
 The project explores and provides actionable insights across the following critical business dimensions:
 
-1. Sales Trends Analysis
+1. Executive Summary
 Evaluation of topline performance, including revenue trends, order volume, and profit margins.
 
 2. Product Performance
 Assessment of profit margins, product sales targets, and the impact of returns.
 
-3. Customer Behavior Analysis
+3. Customer Behavior
 Analysis of customer retention and acquisition patterns over two years.
 
 4. Operational Efficiency
@@ -24,9 +24,9 @@ Store performance evaluation by country and revenue per square foot.
 ## Project Assets
 To make the analysis and insights easy to exploe, the following resources are available:
 
-- The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/SQL-Queries-for-for-Rama-Kesa-Portfolio/)
+- The SQL queries for data preparation can be found [here][(https://mramadhankesapi.github.io/SQL-Queries-for-for-Rama-Kesa-Portfolio/)](https://mramadhankesapi.github.io/Supporting-SQL-Queries-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
 
-- The DAX measures for exploratory data analysis (EDA) process, along with the corresponding analysis questions can be found [here](https://mramadhankesapi.github.io/DAX-Measures-for-Rama-Kesa-Portfolio/)
+- The DAX measures for exploratory data analysis (EDA) process, along with the corresponding analysis questions can be found [here][(https://mramadhankesapi.github.io/DAX-Measures-for-Rama-Kesa-Portfolio/)](https://mramadhankesapi.github.io/Supporting-DAX-Measures-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
 
 - The Power BI dashboard in pdf format can be downloaded here: [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
 
@@ -65,7 +65,7 @@ Below is an overview from the Power BI dashboard, with additional examples provi
 ![Product Detail 2](https://github.com/user-attachments/assets/23782158-3def-4122-83f5-e00cc1dc2c29)
 
 
-### Customer Behaviors:
+### Customer Behavior:
 - Maven Market has had a total of 8,842 customers over the past two years, with most of them (8,060) in 1998. This shows strong customer growth, especially in that year.
 - Maven Market has a high 98.8% retention rate, meaning most customers keep coming back. This shows that customers are happy and loyal to the brand.
 - Bronze membership brings in the most revenue, especially from lower and middle-income customers. These customers find the benefits of the bronze membership, which are likely more affordable, better than having no membership at all (the "normal" status).
