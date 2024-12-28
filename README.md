@@ -38,7 +38,7 @@ Maven Market's database has seven tables: customes, products, stores, regions, c
 
 ![full_name](https://github.com/user-attachments/assets/5918f224-027c-44de-8bc9-a2f46f588e7a)
 
-Before beginning the analysis, comprehensive quality checks were performed to ensure data preparation and to familiarize with Maven Market's datasets. The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/SQL-Queries-for-for-Rama-Kesa-Portfolio/)
+Before beginning the analysis, comprehensive quality checks were performed to ensure data preparation and to familiarize with Maven Market's datasets. The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Supporting-SQL-Queries-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
 
 
 ## Executive Summary
