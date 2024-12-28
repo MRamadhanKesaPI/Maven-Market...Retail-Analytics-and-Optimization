@@ -22,7 +22,7 @@ Store performance evaluation by country and revenue per square foot.
 
 
 ## Project Assets
-To make the analysis and insights easy to exploe, the following resources are available:
+To make the analysis and insights easy to explore, the following resources are available:
 
 - The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Supporting-SQL-Queries-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
 
