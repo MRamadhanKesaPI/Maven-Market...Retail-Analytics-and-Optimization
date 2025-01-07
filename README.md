@@ -1,4 +1,4 @@
-# Retail Business Analytics and Optimization Report
+# Maven Market: Retail Business Analytics and Optimization Report
 
 ## Project Background
 Maven Market, established in the mid-1990s, is a fictional retail brand specializing in a diverse range of consumer products. Over the years, it has expanded operations across North America, including the United States, Canada, and Mexico. By 1997, Maven Market had gathered substantial sales, product, and customer data, yet these datasets were underutilized for strategic decision-making.
