@@ -24,7 +24,7 @@ store performance evaluation by country and revenue per square foot.
 ## Project Assets
 To make the analysis and insights easy to explore, the following resources are available:
 
-- The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Supporting-SQL-Queries-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
+- The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Maven-Market...Retail-Analytics-and-Optimization/)
 
 - The DAX measures for exploratory data analysis (EDA) process, along with the corresponding analysis questions can be found [here](https://mramadhankesapi.github.io/Supporting-DAX-Measures-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
 
@@ -38,7 +38,7 @@ Maven Market's database has seven tables: customers, products, stores, regions, 
 
 ![full_name](https://github.com/user-attachments/assets/5918f224-027c-44de-8bc9-a2f46f588e7a)
 
-Before beginning the analysis, comprehensive quality checks were performed to ensure data preparation and to familiarize with Maven Market's datasets. The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Supporting-SQL-Queries-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
+Before beginning the analysis, comprehensive quality checks were performed to ensure data preparation and to familiarize with Maven Market's datasets. The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Maven-Market...Retail-Analytics-and-Optimization/)
 
 
 ## Executive Summary
