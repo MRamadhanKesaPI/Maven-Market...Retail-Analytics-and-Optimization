@@ -5,20 +5,20 @@ Maven Market, established in the mid-1990s, is a fictional retail brand speciali
 
 This project thoroughly analyzes two years of historical data (1997–1998) to uncover actionable insights that can drive profitability, optimize product offerings, improve customer satisfaction, and enhance operational efficiency. The analysis is centered around evaluating executive summary, product performance, customer behavior, and operational efficiency to provide recommendations for business improvement.
 
-#### Insights and Recommendations Focus:
+### Insights and Recommendations Focus:
 The project explores and provides actionable insights across the following critical business dimensions:
 
-1. Executive Summary
-Evaluation of topline performance, including revenue trends, order volume, and profit margins.
+1. **Executive Summary**,
+evaluation of topline performance, including revenue trends, order volume, and profit margins.
 
-2. Product Performance
-Assessment of profit margins, product sales targets, and the impact of returns.
+2. **Product Performance**,
+assessment of profit margins, product sales targets, and the impact of returns.
 
-3. Customer Behavior
-Analysis of customer retention and acquisition patterns over two years.
+3. **Customer Behavior**,
+analysis of customer retention and acquisition patterns over two years.
 
-4. Operational Efficiency
-Store performance evaluation by country and revenue per square foot.
+4. **Operational Efficiency**,
+store performance evaluation by country and revenue per square foot.
 
 
 ## Project Assets
