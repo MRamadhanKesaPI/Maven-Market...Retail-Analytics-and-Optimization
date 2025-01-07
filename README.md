@@ -26,7 +26,7 @@ To make the analysis and insights easy to explore, the following resources are a
 
 - The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Maven-Market...Retail-Analytics-and-Optimization/)
 
-- The DAX measures for exploratory data analysis (EDA) process, along with the corresponding analysis questions can be found [here](https://mramadhankesapi.github.io/Supporting-DAX-Measures-for-Retail-Analytics-and-Optimization_Maven-Market-Case-Study/)
+- The DAX measures for data analysis, along with the corresponding analysis questions can be found [here](https://mramadhankesapi.github.io/DAX-Measures__for__Maven-Market...Retail-Analytics-and-Optimization/)
 
 - The Power BI dashboard in pdf format can be downloaded here: [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
 
