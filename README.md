@@ -8,7 +8,7 @@ This project thoroughly analyzes two years of historical data (1997–1998) to u
 ### Insights and Recommendations Focus:
 The project explores and provides actionable insights across the following critical business dimensions:
 
-1. **Executive Summary**,
+1. [**Executive Summary**](#executive-summary),
 evaluation of topline performance, including revenue trends, order volume, and profit margins.
 
 2. **Product Performance**,
