@@ -34,7 +34,7 @@ To make the analysis and insights easy to explore, the following resources are a
 
 
 ## Data Structure & initial Checks
-Maven Market's database has seven tables: customes, products, stores, regions, calendar, returns, and orders, with a total of 289,511 rows across all tables.
+Maven Market's database has seven tables: customers, products, stores, regions, calendar, returns, and orders, with a total of 289,511 rows across all tables.
 
 ![full_name](https://github.com/user-attachments/assets/5918f224-027c-44de-8bc9-a2f46f588e7a)
 
