@@ -11,13 +11,13 @@ The project explores and provides actionable insights across the following criti
 1. [**Executive Summary**](#executive-summary),
 evaluation of topline performance, including revenue trends, order volume, and profit margins.
 
-2. **Product Performance**,
+2. [**Product Performance**](#product-performance),
 assessment of profit margins, product sales targets, and the impact of returns.
 
-3. **Customer Behavior**,
+3. [**Customer Behavior**](#customer-behavior),
 analysis of customer retention and acquisition patterns over two years.
 
-4. **Operational Efficiency**,
+4. [**Operational Efficiency**](#operational-efficiency),
 store performance evaluation by country and revenue per square foot.
 
 
