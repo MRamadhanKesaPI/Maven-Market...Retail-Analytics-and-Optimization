@@ -1,5 +1,12 @@
 # Maven Market: Retail Business Analytics and Optimization Report
 
+## Table of Contents
+- [Project Background](#project-background)
+- [Project Assets](#project-assets)
+- [Data Structure and Initial Checks](#data-structure-and-initial-checks)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+
 ## Project Background
 Maven Market, established in the mid-1990s, is a fictional retail brand specializing in a diverse range of consumer products. Over the years, it has expanded operations across North America, including the United States, Canada, and Mexico. By 1997, Maven Market had gathered substantial sales, product, and customer data, yet these datasets were underutilized for strategic decision-making.
 
@@ -33,7 +40,7 @@ To make the analysis and insights easy to explore, the following resources are a
 **Note**: Due to issues with my Microsoft account, the interactive Power BI content is not available in this portfolio. I will update it once the issue is fixed.
 
 
-## Data Structure & initial Checks
+## Data Structure and initial Checks
 Maven Market's database has seven tables: customers, products, stores, regions, calendar, returns, and orders, with a total of 289,511 rows across all tables.
 
 ![full_name](https://github.com/user-attachments/assets/5918f224-027c-44de-8bc9-a2f46f588e7a)
@@ -41,8 +48,8 @@ Maven Market's database has seven tables: customers, products, stores, regions, 
 Before beginning the analysis, comprehensive quality checks were performed to ensure data preparation and to familiarize with Maven Market's datasets. The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Maven-Market...Retail-Analytics-and-Optimization/)
 
 
-## Executive Summary
-### Overview of Finding
+## Insights
+### Executive Summary
 Maven Market has achieved strong financial results, with a $1.05M profit and a 59% profit margin, driven by rapid growth in 1998 from expanding into Mexico and Canada. Revenue has increased by 112% compared to last year, thanks to expansion and strong product performance.
 
 The USA is still the top revenue source, but Mexico's rapid growth, despite only being operational for a year, shows it could soon compete with the USA. In just one year, Mexico has experienced significant market penetration, demonstrating a strong customer base and demand for Maven Market's offerings. 
@@ -80,7 +87,7 @@ Below is an overview from the Power BI dashboard, with additional examples provi
 ![Operational Efficiency](https://github.com/user-attachments/assets/467e5d00-ead8-4167-be73-1aa82c7cbe2f)
 
 
-### Recommendations:
+## Recommendations
 1. Adjust Pricing for High-Margin, Low-Sales Products:
    - **Recommendation**: Slightly adjust prices for products like Plato and BBB Best to boost sales while maintaining strong profit margins. If this successful, apply to other similar products.
    - **Rationale**: These products have high profit margins but low sales. Small price adjustments or targeted promotions could drive more volume without compromising profitability.
