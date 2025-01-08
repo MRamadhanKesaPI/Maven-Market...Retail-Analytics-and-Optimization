@@ -81,33 +81,34 @@ A detailed overview of these insights is available in the Power BI dashboard, wh
 
 
 ### Operational Efficiency:
-- USA stores achieve high revenue per SQFT ($3.24) with a low order frequency (28), indicating fewer but higher-value purchases. In contrast, Mexico has a higher order frequency (66) but lower revenue per SQFT ($1.74), suggesting frequent but smaller transactions. The opportunity lies in boosting order frequency in the USA and Canada while increasing order values in Mexico to balance both performance metrics.
-- We focus on USA stores as they have been running for two years. Stores like Store 14, Store 2, and Store 22 consistently underperform, earning under $0.50 revenue per square foot, highlighting the need for further evaluation.
+- USA stores achieve high revenue per square foot ($3.24) but have low order frequency (28), indicating fewer but higher-value purchases.
+- Mexico shows higher order frequency (66) but lower revenue per square foot ($1.74), suggesting frequent smaller transactions.
+- We focus on USA stores as they have been running for two years. Underperforming USA stores (e.g., Store 14, Store 2, Store 22) earn less than $0.50 per square foot, requiring further evaluation for improvement.
 
 ![Operational Efficiency](https://github.com/user-attachments/assets/467e5d00-ead8-4167-be73-1aa82c7cbe2f)
 
 
 ## Recommendations
-1. Adjust Pricing for High-Margin, Low-Sales Products:
-   - **Recommendation**: Slightly adjust prices for products like Plato and BBB Best to boost sales while maintaining strong profit margins. If this successful, apply to other similar products.
-   - **Rationale**: These products have high profit margins but low sales. Small price adjustments or targeted promotions could drive more volume without compromising profitability.
+**1. Adjust Pricing for High-Margin, Low-Sales Products:**
+   - Slightly lower prices for products like Plato and BBB Best to boost sales while maintaining profit margins.
+   - Test the strategy on other similar products if successful.
 
-2. Bundle or Reposition Low-Performing Products Outside Top 50:
-   - **Recommendation**: Bundle or reposition products outside the top 50, especially those generating under $10k in revenue, to reduce inventory costs and boost sales.
-   - **Rationale**: Products with low revenue can benefit from bundling or repositioning to improve sales and inventory turnover. Successful strategies with these low-revenue products can be scaled to other underperforming items.
-
-3. Leverage Mexico's Growth Potential:
-   - **Recommendation**: Increase marketing and distribution efforts in Mexico to capitalize on its rapid growth and close the gap with the USA in revenue.
-   - **Rationale**: Despite being operational for only one year, Mexico's rapid growth indicates untapped potential. Expanding marketing efforts and optimizing product offerings can accelerate its revenue growth.
+**2. Bundle or Reposition Low-Performing Products Outside Top 50:**
+   - Bundle or reposition products generating under $10K in revenue to improve sales and inventory turnover.
+   - Scale successful strategies to other underperforming items.
+     
+**3. Leverage Mexico's Growth Potential:**
+   - Increase marketing and distribution efforts in Mexico to accelerate revenue growth.
+   - Optimize product offerings to tap into its high demand and potential.
   
-4. Optimize Underperforming USA Stores:
-   - **Recommendation**: Investigate underperforming stores (e.g., Store 14, Store 2, Store 22) for operational issues and consider reallocation of resources or store closures.
+**4. Optimize Underperforming USA Stores:**
+   - Investigate underperforming stores (e.g., Store 14, Store 2, Store 22) for operational issues.
    unlike stores in other countries, which have only been open for one year,
-   - **Rationale**: These stores have been operating for two years, unlike stores in other countries, which have only been open for one year. Despite the longer operating time, these stores still underperform. Addressing operational issues or reallocating resources could improve their performance and profitability.
+   - Consider reallocating resources or closures to improve profitability.
 
-5. Maximize Customer Retention and Upsell Membership Tiers:
-   - **Recommendation**: Enhance the Bronze membership program with additional benefits and create a pathway for customers to upgrade to higher tiers.
-   - **Rationale**: With a 98.8% retention rate, focusing on increasing revenue from loyal customers through tiered memberships will maximize lifetime value.
+**5. Maximize Customer Retention and Upsell Membership Tiers:**
+   - Enhance the Bronze membership program and create pathways for upgrades to higher tiers.
+   - Leverage the 98.8% retention rate to maximize customer lifetime value.
 
 
 
