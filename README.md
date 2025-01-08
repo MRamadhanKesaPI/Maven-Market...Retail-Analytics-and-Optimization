@@ -8,7 +8,7 @@
 - [**Recommendations**](#recommendations)
 
 ## Project Background
-Maven Market, a fictional retail brand, started in the mid-1990s and offers a wide variety of consumer products. By 1997, it had expanded across North America (United States, Canada, and Mexico) and collected valuable sales, product, and customer data. However, this data wasn’t fully used for strategic decisions.
+Maven Market, a fictional retail brand, started in the mid-1990s and offers a wide variety of consumer products. By 1998, it had expanded to Canada and Mexico, having previously been only in the USA. This expansion has allowed Maven Market to gather valuable sales, products, customers, and stores data, helping to shape its strategic directions. 
 
 This project analyzes two years of data (1997–1998) to uncover insights that improve profitability, product offerings, customer satisfaction, and efficiency. The focus is on topline performance, product evaluation, customer trends, and operational metrics to guide business growth.
 
@@ -45,7 +45,7 @@ The Maven Market database contains seven tables: customers, products, stores, re
 
 ![full_name](https://github.com/user-attachments/assets/5918f224-027c-44de-8bc9-a2f46f588e7a)
 
-Before beginning the analysis, comprehensive quality checks were performed to ensure data preparation and to familiarize with Maven Market's datasets. The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Maven-Market...Retail-Analytics-and-Optimization/)
+Before starting the analysis, thorough quality checks were done to prepare the data and get familiar with Maven Market's datasets. The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Maven-Market...Retail-Analytics-and-Optimization/)
 
 
 ## Insights
