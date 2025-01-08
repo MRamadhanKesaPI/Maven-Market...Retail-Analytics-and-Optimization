@@ -74,7 +74,7 @@ Below is an overview from the Power BI dashboard, with additional examples provi
 
 
 ### Operational Efficiency:
-- USA stores achieve high revenue per SQFT ($3.24) with a low order frequency (28), indicating fewer but higher-value purchases. In contrast, Mexico has a higher order frequency (66) but lower revenue per SQFT ($1.74), suggesting frequent but smaller transactions. The - - opportunity lies in boosting order frequency in the USA and Canada while increasing order values in Mexico to balance both performance metrics.
+- USA stores achieve high revenue per SQFT ($3.24) with a low order frequency (28), indicating fewer but higher-value purchases. In contrast, Mexico has a higher order frequency (66) but lower revenue per SQFT ($1.74), suggesting frequent but smaller transactions. The opportunity lies in boosting order frequency in the USA and Canada while increasing order values in Mexico to balance both performance metrics.
 - We focus on USA stores as they have been running for two years. Stores like Store 14, Store 2, and Store 22 consistently underperform, earning under $0.50 revenue per square foot, highlighting the need for further evaluation.
 
 ![Operational Efficiency](https://github.com/user-attachments/assets/467e5d00-ead8-4167-be73-1aa82c7cbe2f)
