@@ -8,24 +8,24 @@
 - [**Recommendations**](#recommendations)
 
 ## Project Background
-Maven Market, established in the mid-1990s, is a fictional retail brand specializing in a diverse range of consumer products. Over the years, it has expanded operations across North America, including the United States, Canada, and Mexico. By 1997, Maven Market had gathered substantial sales, product, and customer data, yet these datasets were underutilized for strategic decision-making.
+Maven Market, a fictional retail brand, started in the mid-1990s and offers a wide variety of consumer products. By 1997, it had expanded across North America (United States, Canada, and Mexico) and collected valuable sales, product, and customer data. However, this data wasn’t fully used for strategic decisions.
 
-This project thoroughly analyzes two years of historical data (1997–1998) to uncover actionable insights that can drive profitability, optimize product offerings, improve customer satisfaction, and enhance operational efficiency. The analysis is centered around evaluating executive summary, product performance, customer behavior, and operational efficiency to provide recommendations for business improvement.
+This project analyzes two years of data (1997–1998) to uncover insights that improve profitability, product offerings, customer satisfaction, and efficiency. The focus is on topline performance, product evaluation, customer trends, and operational metrics to guide business growth.
 
 ### Insights and Recommendations Focus:
-The project explores and provides actionable insights across the following critical business dimensions:
+The project highlights four key areas of improvement:
 
 1. [Executive Summary](#executive-summary),
-evaluation of topline performance, including revenue trends, order volume, and profit margins.
+reviews overall performance, including revenue, order trends, and profit margins.
 
 2. [Product Performance](#product-performance),
-assessment of profit margins, product sales targets, and the impact of returns.
+examines profit margins, sales targets, and product returns.
 
 3. [Customer Behavior](#customer-behavior),
-analysis of customer retention and acquisition patterns over two years.
+analyzes customer retention and acquisition trends over two years.
 
 4. [Operational Efficiency](#operational-efficiency),
-store performance evaluation by country and revenue per square foot.
+evaluates store performance and revenue per square foot across regions.
 
 
 ## Project Assets
@@ -33,15 +33,15 @@ To make the analysis and insights easy to explore, the following resources are a
 
 - The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Maven-Market...Retail-Analytics-and-Optimization/)
 
-- The DAX measures for data analysis, along with the corresponding analysis questions can be found [here](https://mramadhankesapi.github.io/DAX-Measures__for__Maven-Market...Retail-Analytics-and-Optimization/)
+- The DAX measures for data analysis and analysis questions can be found [here](https://mramadhankesapi.github.io/DAX-Measures__for__Maven-Market...Retail-Analytics-and-Optimization/)
 
-- The Power BI dashboard in pdf format can be downloaded here: [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
+- The Power BI dashboard can be downloaded here: [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
 
-**Note**: Due to issues with my Microsoft account, the interactive Power BI content is not available in this portfolio. I will update it once the issue is fixed.
+**Note**: Due to issues with my Microsoft account, the  interactive Power BI content will be updated once technical issues with my Microsoft account are resolved.
 
 
 ## Data Structure and initial Checks
-Maven Market's database has seven tables: customers, products, stores, regions, calendar, returns, and orders, with a total of 289,511 rows across all tables.
+The Maven Market database contains seven tables: customers, products, stores, regions, calendar, returns, and orders, with a total of 289,511 rows.
 
 ![full_name](https://github.com/user-attachments/assets/5918f224-027c-44de-8bc9-a2f46f588e7a)
 
@@ -50,22 +50,22 @@ Before beginning the analysis, comprehensive quality checks were performed to en
 
 ## Insights
 ### Executive Summary
-Maven Market has achieved strong financial results, with a $1.05M profit and a 59% profit margin, driven by rapid growth in 1998 from expanding into Mexico and Canada. Revenue has increased by 112% compared to last year, thanks to expansion and strong product performance.
+Maven Market achieved strong financial results in 1998, with a $1.05M profit and a 59% profit margin, driven by expansion into Mexico and Canada. Revenue grew by 112% compared to the previous year, supported by strong product performance.
 
-The USA is still the top revenue source, but Mexico's rapid growth, despite only being operational for a year, shows it could soon compete with the USA. In just one year, Mexico has experienced significant market penetration, demonstrating a strong customer base and demand for Maven Market's offerings. 
+The USA remains the top revenue source, but Mexico’s rapid growth in just one year shows it could soon compete the USA. This highlights Mexico’s strong market potential and growing customer demand.
 
-Hermano is the top-selling brand, making up 3.21% of total sales, indicating high customer demand. Notably, Plato stands out with the highest profit margin of 63.6%, despite lower revenue, showing great operational efficiency. The next sections will look at key factors behind this performance and explore opportunities for growth.
+"Hermano" is the top-selling brand, contributing 3.21% of total sales, while "Plato" leads with the highest profit margin of 63.6%, showcasing operational efficiency despite lower revenue. These results set the stage for further analysis and growth opportunities.
 
-Below is an overview from the Power BI dashboard, with additional examples provided throughout the report. The Power BI dashboard in pdf format can be downloaded here: [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
+A detailed overview of these insights is available in the Power BI dashboard, which can be downloaded here:  [Maven Market Dashboard.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf)
 
 ![EXE SUMMARY](https://github.com/user-attachments/assets/bd0dd2bb-cf1f-4b63-a099-699ba282fc71)
 
 
 ### Product Performance:
-- Best Choice balances strong profit margins and sales targets, with $42,738 in revenue and a 60.6% profit margin. It shows a steady upward sales trend, making it a strong performer with high sales and proportional profits.
-- Plato and BBB Best have high profit margins (63.6% and 62.1%, respectively), but lower sales around $30K. However, while BBB Best shows a better sales trend, Plato missed its 10% target last month. Adjusting the price slightly for both products could help attract more buyers.
-
-**Note**: This report includes a drillthrough page for detailed product performance analysis. By clicking on a product brand in any of the pages, the report will automatically navigate to the product performance page, updating with data specific to the selected product.
+- "Best Choice" generates $42,738 in revenue with a 60.6% profit margin, showing consistent upward sales trends and strong performance.
+- "Plato" and "BBB Best" have the highest profit margins (63.6% and 62.1%, respectively) but lower sales (~$30K). Adjusting prices slightly could boost sales while maintaining profitability.
+  
+**Note**: The report includes a drillthrough page in Power BI for detailed product insights. Selecting a product brand in any of the pages will updates this dashboard with specific brand selected.
 
 ![Product Detail 1](https://github.com/user-attachments/assets/07b44c5a-df9d-4794-b7ea-2e0b6f401ac1)
 
@@ -73,9 +73,9 @@ Below is an overview from the Power BI dashboard, with additional examples provi
 
 
 ### Customer Behavior:
-- Maven Market has had a total of 8,842 customers over the past two years, with most of them (8,060) in 1998. This shows strong customer growth, especially in that year.
-- Maven Market has a high 98.8% retention rate, meaning most customers keep coming back. This shows that customers are happy and loyal to the brand.
-- Bronze membership brings in the most revenue, especially from lower and middle-income customers. These customers find the benefits of the bronze membership, which are likely more affordable, better than having no membership at all (the "normal" status).
+- Maven Market had 8,842 customers over two years, with 8,060 joining in 1998, indicating rapid growth that year.
+- A 98.8% retention rate shows strong customer loyalty and satisfaction.
+- Bronze membership generates the most revenue, particularly from lower and middle-income customers, offering an affordable option, better than having no membership at all (the "normal" status).
 
 ![Customer Behaviors](https://github.com/user-attachments/assets/430427b2-70be-4470-a048-4243dd164ed0)
 
