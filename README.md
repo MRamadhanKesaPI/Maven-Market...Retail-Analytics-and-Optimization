@@ -1,11 +1,11 @@
 # Maven Market: Retail Business Analytics and Optimization Report
 
 ## Table of Contents
-- [Project Background](#project-background)
-- [Project Assets](#project-assets)
-- [Data Structure and Initial Checks](#data-structure-and-initial-checks)
-- [Insights](#insights)
-- [Recommendations](#recommendations)
+- [**Project Background**](#project-background)
+- [**Project Assets**](#project-assets)
+- [**Data Structure and Initial Checks**](#data-structure-and-initial-checks)
+- [**Insights**](#insights)
+- [**Recommendations**](#recommendations)
 
 ## Project Background
 Maven Market, established in the mid-1990s, is a fictional retail brand specializing in a diverse range of consumer products. Over the years, it has expanded operations across North America, including the United States, Canada, and Mexico. By 1997, Maven Market had gathered substantial sales, product, and customer data, yet these datasets were underutilized for strategic decision-making.
@@ -15,16 +15,16 @@ This project thoroughly analyzes two years of historical data (1997–1998) to u
 ### Insights and Recommendations Focus:
 The project explores and provides actionable insights across the following critical business dimensions:
 
-1. [**Executive Summary**](#executive-summary),
+1. [Executive Summary](#executive-summary),
 evaluation of topline performance, including revenue trends, order volume, and profit margins.
 
-2. [**Product Performance**](#product-performance),
+2. [Product Performance](#product-performance),
 assessment of profit margins, product sales targets, and the impact of returns.
 
-3. [**Customer Behavior**](#customer-behavior),
+3. [Customer Behavior](#customer-behavior),
 analysis of customer retention and acquisition patterns over two years.
 
-4. [**Operational Efficiency**](#operational-efficiency),
+4. [Operational Efficiency](#operational-efficiency),
 store performance evaluation by country and revenue per square foot.
 
 
