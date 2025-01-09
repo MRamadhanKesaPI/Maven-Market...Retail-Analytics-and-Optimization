@@ -43,7 +43,7 @@ To make the analysis and insights easy to explore, the following resources are a
 ## Data Structure and initial Checks
 The Maven Market database contains seven tables: customers, products, stores, regions, calendar, returns, and orders, with a total of 289,511 rows.
 
-![full_name](https://github.com/user-attachments/assets/5918f224-027c-44de-8bc9-a2f46f588e7a)
+![Maven Data Structure](https://github.com/user-attachments/assets/722ccc07-b46b-4e53-a5a3-292a64385ddf)
 
 Before starting the analysis, thorough quality checks were done to prepare the data and get familiar with Maven Market's datasets. The SQL queries for data preparation can be found [here](https://mramadhankesapi.github.io/Data-Preparation-Process__for__Maven-Market...Retail-Analytics-and-Optimization/)
 
