@@ -37,7 +37,7 @@ To make the analysis and insights easy to explore, the following resources are a
 
 - The DAX measures for data analysis and analysis questions can be found [here](https://mramadhankesapi.github.io/DAX-Measures__for__Maven-Market...Retail-Analytics-and-Optimization/).
 
-- The Power BI dashboard can be downloaded here: [Maven Retail Analytics and Optimization.pbix](https://github.com/MRamadhanKesaPI/Maven-Market...Retail-Analytics-and-Optimization/blob/main/Maven%20Retail%20Analytics%20and%20Optimization.pbix) or [Maven Retail Analytics and Optimization.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf).
+- The Power BI dashboard can be downloaded here: [Maven Retail Analytics and Optimization.pdf](https://github.com/user-attachments/files/18759867/Maven.Retail.Analytics.and.Optimization.pdf) or [Maven Retail Analytics and Optimization.pbix](https://github.com/MRamadhanKesaPI/Maven-Market...Retail-Analytics-and-Optimization/blob/main/Maven%20Retail%20Analytics%20and%20Optimization.pbix).
 
 **Note**: Due to issues with my Microsoft account, the  interactive Power BI content will be updated once technical issues with my Microsoft account are resolved.
 
@@ -58,7 +58,7 @@ The USA remains the top revenue source, but Mexico’s rapid growth in just one 
 
 "Hermano" is the top-selling brand, contributing 3.21% of total sales, while "Plato" leads with the highest profit margin of 63.6%, showcasing operational efficiency despite lower revenue. These results set the stage for further analysis and growth opportunities.
 
-A detailed overview of these insights is available in the Power BI dashboard, which can be downloaded here:  [Maven Retail Analytics and Optimization.pbix](https://github.com/MRamadhanKesaPI/Maven-Market...Retail-Analytics-and-Optimization/blob/main/Maven%20Retail%20Analytics%20and%20Optimization.pbix) or [Maven Retail Analytics and Optimization.pdf](https://github.com/user-attachments/files/18228058/Maven.Market.Dashboard.pdf).
+A detailed overview of these insights is available in the Power BI dashboard, which can be downloaded here:  [Maven Retail Analytics and Optimization.pdf](https://github.com/user-attachments/files/18759867/Maven.Retail.Analytics.and.Optimization.pdf) or [Maven Retail Analytics and Optimization.pbix](https://github.com/MRamadhanKesaPI/Maven-Market...Retail-Analytics-and-Optimization/blob/main/Maven%20Retail%20Analytics%20and%20Optimization.pbix).
 
 ![EXE SUMMARY](https://github.com/user-attachments/assets/bd0dd2bb-cf1f-4b63-a099-699ba282fc71)
 
