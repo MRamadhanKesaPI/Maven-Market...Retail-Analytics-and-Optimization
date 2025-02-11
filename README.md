@@ -1,5 +1,7 @@
 # Maven Market: Retail Business Analytics and Optimization Report
 
+**Welcome to my personal project repository!**
+
 ## Table of Contents
 - [**Project Background**](#project-background)
 - [**Project Assets**](#project-assets)
@@ -110,6 +112,6 @@ A detailed overview of these insights is available in the Power BI dashboard, wh
    - Enhance the Bronze membership program and create pathways for upgrades to higher tiers.
    - Leverage the 98.8% retention rate to maximize customer lifetime value.
 
-
+### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
 
 
